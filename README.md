@@ -12,8 +12,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, configuraç�
 
 ## 📖 Sobre Mim
 - 💻 Apaixonado por desenvolvimento de software e tecnologia.
-- 🌱 Atualmente aprendendo [insira aqui o que você está aprendendo, por exemplo: Node.js, Python, etc.].
-- 🎯 Meu objetivo é [insira aqui seu objetivo, por exemplo: contribuir para projetos open-source ou construir ferramentas úteis].
+- 🌱 Atualmente aprendendo programação orientado a objetos em java, java com framework em spring boot para um progeto da faculdade, banco de dados com msql e fundamentos da segurança da informação.
+- 🎯 Meu objetivo é conseguir resolver a maioria dos problemas que aparecem, consueguir me especializar em alguma das muitas aréas que tem no mundo da tecnologia .
 
 ---
 
@@ -22,11 +22,4 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, configuraç�
 ![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBraga7&show_icons=true&theme=dracula)
 
 ---
-
-## 📫 Como Entrar em Contato
-- Meu e-mail: [seu-email@example.com]
-- [Adicione links para outras redes sociais, como LinkedIn, Twitter, etc.]
-
----
-
 ✨ Obrigado por visitar o meu perfil! ✨
