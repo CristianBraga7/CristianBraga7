@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, configuraç�
 ## 📖 Sobre Mim
 - 💻 Apaixonado por desenvolvimento de software e tecnologia.
 - 🌱 Atualmente aprendendo programação orientado a objetos em java, java com framework em spring boot para um progeto da faculdade, banco de dados com msql e fundamentos da segurança da informação.
-- 🎯 Meu objetivo é conseguir resolver a maioria dos problemas que aparecem, consueguir me especializar em alguma das muitas aréas que tem no mundo da tecnologia .
+- 🎯 Meu objetivo é conseguir resolver a maioria dos problemas que aparecem, conseguir me especializar em alguma das muitas aréas que tem no mundo da tecnologia .
 
 ---
 
