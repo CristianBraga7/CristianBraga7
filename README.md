@@ -8,6 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, configuraç�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBraga7&layout=compact&theme=dracula)
 
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBraga7&show_icons=true&theme=dracula)
 ---
 
 ## 📖 Sobre Mim
@@ -19,7 +20,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, configuraç�
 
 ## 📈 Estatísticas do GitHub
 
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBraga7&show_icons=true&theme=dracula)
+
 
 ---
 ✨ Obrigado por visitar o meu perfil! ✨
