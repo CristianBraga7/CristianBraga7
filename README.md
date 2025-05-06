@@ -6,7 +6,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, configuraç�
 
 ## 📊 Minhas Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBraga7&layout=compact&theme=dracula)  ---  ![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBraga7&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBraga7&layout=compact&theme=dracula)
+
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBraga7&show_icons=true&theme=dracula)
 
 ---
 
