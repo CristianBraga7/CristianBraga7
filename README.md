@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, configuraç�
   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBraga7&layout=compact&theme=dracula" alt="Top Langs" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
     </td>
     <td>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://github-readme-stats.vercel.app/api?username=CristianBraga7&show_icons=true&theme=dracula" alt="Cristian's GitHub Stats" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://github-readme-stats.vercel.app/api?username=CristianBraga7&show_icons=true&theme=dracula" alt="Cristian's GitHub Stats" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
     </td>
   </tr>
 </table>
